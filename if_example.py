@@ -1,3 +1,4 @@
+#! python3
 #name = 'Alice'
 name = 'Bob'
 if name == 'Alice':

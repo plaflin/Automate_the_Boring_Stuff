@@ -1,3 +1,4 @@
+#! python3
 name = 'Bob'
 age = 3000
 if name == 'Alice':

@@ -1,3 +1,4 @@
+#! python3
 name = ''
 #while name != 'your name':
 while True:
